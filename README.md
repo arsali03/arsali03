@@ -1,7 +1,9 @@
-
-
 <h1 align="center">Hi 👋, I'm Ali Arslan</h1>
 <h3 align="center">A passionate Software Student from Turkey</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsali03&label=Profile%20views&color=0e75b6&style=flat" alt="arsali03" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsali03" alt="arsali03" /></a> </p>
 
 - 🔭 I’m currently working on **Java and Python**
 
@@ -11,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-arslan-57b81121b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-arslan-57b81121b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali-arslan-57b81121b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-arslan-57b81121b" height="30" width="40" /></a>
 <a href="https://instagram.com/al_.arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="al_.arslan" height="30" width="40" /></a>
 </p>
 
