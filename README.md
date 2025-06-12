@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JavaScript, Java and Python**
 
-- 🌱 I’m currently learning **Machine Learning with Python**
+- 🌱 I’m currently learning **Machine Learning, NLP and Backend**
 
 - 📫 How to reach me **33.arsali.33@gmail.com**
 
