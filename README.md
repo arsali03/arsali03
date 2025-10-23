@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali Arslan</h1>
-<h3 align="center">A passionate Software Student from Turkey</h3>
+<h3 align="center">A passionate Software Engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsali03&label=Profile%20views&color=0e75b6&style=flat" alt="arsali03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsali03" alt="arsali03" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript, Java and Python**
+- 🔭 I’m currently working on Python**
 
-- 🌱 I’m currently learning **Machine Learning, NLP and Backend**
+- 🌱 I’m currently learning **Machine Learning and NLP**
 
 - 📫 How to reach me **33.arsali.33@gmail.com**
 
