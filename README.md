@@ -31,16 +31,9 @@
 
 ### 📊 Github Stats:
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arsali03&theme=radical&margin-w=15" alt="arsali03" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsali03&show_icons=true&theme=radical" alt="arsali03" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arsali03&show_icons=true&layout=compact&theme=radical" alt="arsali03" width="40%" />
-</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsali03&theme=radical" alt="arsali03" />
